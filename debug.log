@@ -1,0 +1,10 @@
+[1021/203124.876:ERROR:file_io_win.cc(170)] CreateFile C:\Users\arshd\AppData\Local\Temp\scoped_dir7572_10507\Crashpad\reports\554a4f4d-2e9b-42ba-bfc2-6c107a3731e5.dmp: The system cannot find the path specified. (0x3)
+[1021/203124.877:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1021/203317.792:ERROR:file_io_win.cc(170)] CreateFile C:\Users\arshd\AppData\Local\Temp\scoped_dir13900_14280\Crashpad\reports\aedea402-ca02-497b-a38e-b386835e330c.dmp: The system cannot find the path specified. (0x3)
+[1021/203317.793:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1021/203357.299:ERROR:file_io_win.cc(170)] CreateFile C:\Users\arshd\AppData\Local\Temp\scoped_dir8532_7005\Crashpad\reports\006d13f2-cb30-4a42-9f5a-80e87ab99ed8.dmp: The system cannot find the path specified. (0x3)
+[1021/203357.301:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1021/203623.920:ERROR:file_io_win.cc(170)] CreateFile C:\Users\arshd\AppData\Local\Temp\scoped_dir13544_20395\Crashpad\reports\7124c19b-4ea1-43d0-b9f7-5fb7a5f25280.dmp: The system cannot find the path specified. (0x3)
+[1021/203623.921:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1021/203907.333:ERROR:file_io_win.cc(170)] CreateFile C:\Users\arshd\AppData\Local\Temp\scoped_dir7932_29958\Crashpad\reports\a1e4c1cb-a240-439c-9973-40785315664b.dmp: The system cannot find the path specified. (0x3)
+[1021/203907.334:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

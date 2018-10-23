@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/TestNG/jcommander-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/TestNG/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/java-client-6.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/java-client-6.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/Selenium + Java + Webdrivers/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/cucumber-junit-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/cucumber-reporting-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/cucumber-testng-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/junit-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/mockito-all-1.9.1-20110911.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Selenium Files/cucumber-jvm-master/gherkin-2.12.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
